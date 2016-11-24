@@ -14,7 +14,9 @@ body {
 html { 
   background: url(stemgirlslogo.jpg) no-repeat center center fixed; 
   background-size: 250px 250px;
+  padding-top: 50px;
   background-position: top left;
+
 }
 
 .text{
