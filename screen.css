@@ -18,6 +18,12 @@ body {
 	width: 100%;
 }
 
+img{
+  height:120px;
+  width:120px;
+  float:right;
+}
+
 html { 
   background: url('CodeFirstGirls.jpg') no-repeat center center fixed; 
   background-size: 250px 250px;
