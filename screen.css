@@ -18,8 +18,12 @@ body {
 	width: 100%;
 }
 
-html { 
-  background: url('CodeFirstGirls.jpg') no-repeat center center fixed; 
+.main{
+  padding-top: 40px;
+}
+
+html {
+  background: url('CodeFirstGirls.jpg') no-repeat center center fixed;
   background-size: 250px 250px;
   padding-top: 50px;
   background-position: top left;
